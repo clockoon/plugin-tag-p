@@ -1,7 +1,7 @@
-base   tag_p
+base   tag
 author Michael Hamann, Gina Häussge, Christopher Smith, Michael Klier, Esther Brunner, Sungbin Jeon
 email  michael@content-space.de, clockoon@gmail.com
 date   2022-12-09
-name   Tag_p Plugin
+name   Tag_P Plugin
 desc   tag wiki pages (patched)
 url    https://www.dokuwiki.org/plugin:tag_p
